@@ -32,7 +32,7 @@ External ADC (3 Channels)
       ↓  I²C
 ESP32 MCU
       ↓
-USB / BLE / Wi-Fi / Data Storage
+USB / BLE / Wi-Fi 
 ```
 
 ---
